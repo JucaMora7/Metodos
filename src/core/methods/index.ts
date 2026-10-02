@@ -1,0 +1,7 @@
+export * from './bisection'
+export * from './falsePosition'
+export * from './newton'
+export * from './secant'
+export * from './fixedPoint'
+export { calcError } from './common'
+export * from './muller'
